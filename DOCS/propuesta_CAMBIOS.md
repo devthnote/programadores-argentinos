@@ -64,3 +64,14 @@ Enlaces a tutoriales, páginas de tutoriales y cualquier otro enlace aunque teng
 -Si no entra en esas tres categorias----- eliminarlo
 
 Para resumir este tema cree una [propuesta de normas nuevas](propuesta_NORMAS.md), creo que se explican por si solas si no es el caso, pregunten.
+
+### Otras configuraciones
+
+Esto ya se decidió por encuesta (creo), hacer el grupo privado, la encuesta está en el grupo la votaron unas 400 y cerca del 80% eligió hacerlo privado.
+Que cambia con esto? Una sola cosa: nadie que no esté en el grupo puede ver las publicaciones- Ni tu jefe, ni las empresas, ni tu novi@ (o ex), ni los chantas que te mandan privados o te agregan y no sabes de donde salen. Creo que no hay mucho que explicar del tema.
+
+### Aclaración
+
+Esto es solo una propuesta- de decidirse implementarse estas cosas tener en cuenta que no son cambios que se hagan de un día para otro:
+
+Por ej- Los documentos a crear no se hacen en un día, no se puede prohibir publicar por ej empleos si aun no tenemos la pagina hecha, o prohibir publicar x tipo de enlaces si aun no preparamos ese documento de enlaces. Si se implementan estas cosas el cambio va a ser progresivo, con ayuda más rápido aún!
