@@ -6,8 +6,7 @@
 * [PhpBB España Oficial](https://www.phpbb-es.com) (Soporte general primero, moderador global luego). 
 * [PhpBB Argentina Oficial](http://phpbbargentina.com) (Co-Administrador). 
 * Colaboré en la traducción de phpBB al español de Argentina y en traducciones de varios Mods de phpBB 3x. 
-* También colaboré en la traducción de varias extensiones de joomla 3x
-* Colaboré con el 40% de la traducción de [SEBLOD](https://seblod.com) (extensión de joomla).
+* También colaboré en la traducción de [SEBLOD](https://seblod.com) (extension de joomla 3x).
 
 **Otras colaboraciones y proyectos propios en comunidades**
 * Fundador, administrador y desarrollador de TEGADICCION.NET (comunidad de jugadores de TEG)
