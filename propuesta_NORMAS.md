@@ -1,6 +1,6 @@
-A continuación dejo mi propuesta de cambios a realizar en la comunidad.
-
 # PROGRAMADORES ARGENTINOS 2.0
+
+A continuación dejo mi popuesta de cambios a las normas complementando la propuesta de cambios (ya se aplican normas a los nuevos cambios, por eso leer el otro artículo antes).
 
 ## Actualización de las normas
 Las normas actuales aún se pueden leer en mi viejo github (son las que estan linkeadas desde el 2016 en el grupo): 
@@ -32,9 +32,13 @@ Por ej eliminé todo lo que obligara a los miembros a hacer referencia a "progra
 ### Publicaciones
 
 #### Publicaciones PERMITIDAS en el GRUPO de facebook:
-* Noticias, artículos o tutoriales sobre temas de informática, programación, tecnología, apps y aquellas que inviten al debate y opinión.
+* Noticias, artículos sobre temas de informática, programación, tecnología, apps y aquellas que inviten al debate y opinión.
+* YouTubers, propietarios de sitios web que **no** tengan la insignia de usuario nuevo pueden publicar sus tutoriales y guías (1 enlace x día, procurando no repetir la misma publicación).
 * Freelancers que **no** tengan la insignia de usuario nuevo pueden ofrecer sus servicios y añadir **un link** a su sitio personal una vez **cada 24hs**.
 * Pedidos de presupuestos a freelancers que tengan toda la información necesaria (o casi toda). **Un pedido y hasta 4 "up" en 24hs.**
+
+#### Enlaces en COMENTARIOS
+* cualquier enlace que tenga como objeto resolver una duda está permitido, siempre y cuando no se abuse de la cantidad de enlaces. (por lo general 1 único enlace por publicación, si publicas un enlace en CADA publicación lo consideraremos SPAM).
 
 #### Publicaciones PERMITIDAS en la PÁGINA de facebook:
 * Ofertas laborales que completen la plantilla de empleo y esten relacionados con la programación.
