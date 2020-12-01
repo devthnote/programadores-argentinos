@@ -1,6 +1,6 @@
 # PROGRAMADORES ARGENTINOS 2.0
 
-A continuación dejo mi popuesta de cambios a las normas complementando la propuesta de cambios (ya se aplican normas a los nuevos cambios, por eso leer el otro artículo antes).
+A continuación dejo mi popuesta de cambios a las normas complementando la propuesta de cambios (ya se aplican normas a los nuevos cambios, por eso leer la [propuesta](https://github.com/devthnote/programadores-argentinos/blob/main/DOCS/propuesta_CAMBIOS.md#programadores-argentinos-20) antes).
 
 ## Actualización de las normas
 Las normas actuales aún se pueden leer en mi viejo github (son las que estan linkeadas desde el 2016 en el grupo): 
