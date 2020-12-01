@@ -1,4 +1,6 @@
-[Quién soy](presentacion.md)
+[Quién soy](../DOCS/presentacion.md)
+
+# PROGRAMADORES ARGENTINOS 2.0
 
 En éste artículo dejo explicados todos los cambios que propongo realizar en la comunidad. La propuesta es extensa, para facilitar su rápida lectura a todos dejo la mayoría de información extensa en enlaces. Así cómo otras propuestas que descarté. Si necesitás expandir la información, o entender porque propongo cada cambio seguí los enlaces que iré dejando en el texto.
 
@@ -25,7 +27,7 @@ Que saqué de éste analisis? Principalmente 3 o 4 problemas de los que ofrezco 
 5 La publicación de esta forma solo ocupa un pequeño rectángulo gris, un estado y un botón que dice "postular", al clickearlo te lleva a la plantilla con todos los datos de la oferta. De esta forma se limpia mucho el inicio y lo mejor: queda categorizado.
 6 El usuario entra al grupo y no ve ofertas > en la barra derecha clickea en Empleo y automaticamente se filtraran todas las publicaciones de Empleos.
 
-[Mejor explicado en imágenes](../IMG/)
+[Mejor explicado en imágenes](https://github.com/devthnote/programadores-argentinos/tree/main/img)
 
 
 ### Resolver dudas de prog, pedir tutoriales y orientación de estudios
