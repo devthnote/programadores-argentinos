@@ -8,6 +8,7 @@
 * Colaboré en la traducción de phpBB al español de Argentina y en traducciones de varios Mods de phpBB 3x. 
 * También colaboré en la traducción de varias extensiones de joomla 3x
 * Colaboré con el 40% de la traducción de [SEBLOD](https://seblod.com) (extensión de joomla).
+
 **Otras colaboraciones y proyectos propios en comunidades**
 * Fundador, administrador y desarrollador de TEGADICCION.NET (comunidad de jugadores de TEG)
 * Fundador, administrador y desarrollador de REQUIEMLATINO.COM (comunidad de jugadores de requiem bloodymare).
@@ -19,4 +20,4 @@ Esta propuesta nace por la necesidad propia y de muchos miembros de ordenar la c
 
 Nuestro grupo "Programadores Argentinos" creo que hoy día ya tiene todo lo que necesita para desarrollarse como comunidad y dejar de ser "otro grupo de programadores en facebook", solo falta un poco de organización. 
 
-[LEE LA PROPUESTA](./propuesta_CAMBIOS.md)
+[LEE LA PROPUESTA](../propuesta_CAMBIOS.md)
