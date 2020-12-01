@@ -1,4 +1,4 @@
-[Quién soy](/presentacion.md)
+[Quién soy](presentacion.md)
 
 En éste artículo dejo explicados todos los cambios que propongo realizar en la comunidad. La propuesta es extensa, para facilitar su rápida lectura a todos dejo la mayoría de información extensa en enlaces. Así cómo otras propuestas que descarté. Si necesitás expandir la información, o entender porque propongo cada cambio seguí los enlaces que iré dejando en el texto.
 
