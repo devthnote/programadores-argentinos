@@ -34,8 +34,8 @@ Por ej eliminé todo lo que obligara a los miembros a hacer referencia a "progra
 #### Publicaciones PERMITIDAS en el GRUPO de facebook:
 * Noticias, artículos sobre temas de informática, programación, tecnología, apps y aquellas que inviten al debate y opinión.
 * YouTubers, propietarios de sitios web que **no** tengan la insignia de usuario nuevo pueden publicar sus tutoriales y guías (1 enlace x día, procurando no repetir la misma publicación).
-* Freelancers que **no** tengan la insignia de usuario nuevo pueden ofrecer sus servicios y añadir **un link** a su sitio personal una vez **cada 24hs**.
-* Pedidos de presupuestos a freelancers que tengan toda la información necesaria (o casi toda). **Un pedido y hasta 4 "up" en 24hs.**
+* Freelancers que **no** tengan la insignia de usuario nuevo pueden ofrecer sus servicios y añadir **un link** a su sitio personal una vez **por semana**.
+* Pedidos de presupuestos a freelancers que tengan toda la información necesaria (o casi toda). **Un pedido cada 24 hs.** (no repetir los mismos pedidos más de una vez por semana)
 
 #### Enlaces en COMENTARIOS
 * cualquier enlace que tenga como objeto resolver una duda está permitido, siempre y cuando no se abuse de la cantidad de enlaces. (por lo general 1 único enlace por publicación, si publicas un enlace en CADA publicación lo consideraremos SPAM).
