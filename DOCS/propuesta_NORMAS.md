@@ -10,20 +10,21 @@
 
 ### 1. Publicaciones PERMITIDAS en el GRUPO de facebook:
 * Se pueden publicar noticias, artículos sobre temas de informática, programación, tecnología, apps y aquellas que inviten al debate y opinión.
-* Se puede pedir ayuda, orientación de estudios y preparación para entrevistas de trabajo. Antes de pedir ayuda por favor lee los TIPS para pedir soporte
+* Se puede pedir ayuda, orientación de estudios y preparación para entrevistas de trabajo. Antes de pedir ayuda por favor lee los [TIPS para pedir soporte](#)
 
 #### Limitaciones de tiempo y antigüedad:
 * Pedidos de presupuestos a freelancers que tengan toda la información necesaria (o casi toda). **Un pedido cada 24 hs.** (no repetir los mismos pedidos más de una vez por semana)
+
 **Usuarios Nuevos**
 * YouTubers, propietarios de sitios web que **NO TENGAN LA INSIGNIA DE USUARIO NUEVO**  pueden publicar sus tutoriales y guías (1 enlace x día, procurando no repetir la misma publicación).
 * Freelancers que **NO TENGAN LA INSIGNIA DE USUARIO NUEVO** pueden ofrecer sus servicios y añadir **un link** a su sitio personal hasta **una vez por semana**.
-Nota: La insignia de usuario nuevo se removerá automáticamente pasados los 15 días de ingresar a la comunidad. La única forma de que se remueva antes es consiguiendo la insignia de "estrella en ascenso" (necesitas tener algunas publicaciones con mucha interacción de los miembros, esta insignia dura 1 mes).
+
+**Nota:** La insignia de usuario nuevo se removerá automáticamente pasados los 15 días de ingresar a la comunidad. La única forma de que se remueva antes es consiguiendo la insignia de "estrella en ascenso" (necesitas tener algunas publicaciones con mucha interacción de los miembros, esta insignia dura 1 mes).
 
 
 ### Enlaces en COMENTARIOS
 * cualquier enlace que tenga como objeto resolver una duda está permitido, siempre y cuando no se abuse de la cantidad de enlaces. (por lo general 1 único enlace por publicación, si publicas un enlace en CADA publicación lo consideraremos SPAM). Comentarios del estilo "tengo hosting si necesitas - link", o "compra mi curso" NO RESUELVEN DUDAS.
-* C tampoco pueden hacerse en comentarios.
-* Cualquier intento de disfrazar en comentarios los enlaces especificados en la sección de "publicaciones prohibidas" se sancionará con eliminación aautomática del autor del comentario.
+* Cualquier intento de disfrazar en comentarios los enlaces especificados en la sección de "publicaciones prohibidas" se sancionará con la eliminación automática del autor del comentario.
 
 ### Publicaciones PROHIBIDAS en el GRUPO:
 
@@ -34,7 +35,8 @@ Nota: La insignia de usuario nuevo se removerá automáticamente pasados los 15 
 * Publicaciones fuera del ámbito de la programación, o ámbitos relacionados a la programación.
 * Publicaciones solicitando o compartiendo información protegida por derechos de autor.
 * Publicaciones de enlaces externos como blog, sitios web o foros, siempre y cuando estos sean solo links sin argumentación de porque se comparte el contenido o lleve a recursos ilegales.
-* Publicaciones en donde se solicite ayuda u orientación por "inbox" (mensaje privado). **La comunidad se basa en contribuciones de conocimiento para todo aquel que pertenezca a ella, por tanto la conversación debe ser desarrollada de forma pública. De esta manera las soluciones puede ser utilizadas por otro miembro en el futuro.**
+* Publicaciones en donde se solicite ayuda u orientación por "inbox" (mensaje privado). 
+**La comunidad se basa en contribuciones de conocimiento para todo aquel que pertenezca a ella, por tanto la conversación debe ser desarrollada de forma pública. De esta manera las soluciones puede ser utilizadas por otro miembro en el futuro.**
 * Publicaciones en donde se ofrezca cualquier servicio sin dar información pública. (mensajes tipo: más infor por inbox, se eliminan sin previo aviso).
 * Tomas de pantalla que sean ilegibles o imágenes que sean difíciles de interpretar tampoco son bienvenidas.
 * Publicaciones con SPAM o post repetidos (existiendo el anterior) y publicaciones alusivas a otros grupos, o páginas si éstas no aportan a la comunidad.
@@ -47,11 +49,11 @@ Nota: La insignia de usuario nuevo se removerá automáticamente pasados los 15 
 
 # Información necesaria para PRESUPUESTOS, VENTAS Y OFERTAS DE EMPLEO
 * **Para pedir presupuestos a un freelancer:**
-  -Explicá lo más detallado posible el trabajo a realizar (no solicitar que envien un privado para explicarlo).
-  -Si es relevante, especifica una ubicación aproximada. (si es necesaria una visita presencial, este dato es relevante).
-  -Especificá las formas de pago que tenés para pagar el trabajo.
-  -Mensajes misteriosos, pedidos de inbox, o cualquier pedido que consideremos pueda ser un riesgo para los miembros, automáticamente será eliminado.
-  -Si el pedido está completo y cumple con esta normativa, los freelancers que quieran hacer el trabajo te enviarán un inbox con el presupuesto o pedido de detalles específicos.
+    -Explicá lo más detallado posible el trabajo a realizar (no solicitar que envien un privado para explicarlo).    
+    -Si es relevante, especifica una ubicación aproximada. (si es necesaria una visita presencial, este dato es relevante).
+    -Especificá las formas de pago que tenés para pagar el trabajo.
+    -Mensajes misteriosos, pedidos de inbox, o cualquier pedido que consideremos pueda ser un riesgo para los miembros, automáticamente será eliminado.
+    -Si el pedido está completo y cumple con esta normativa, los freelancers que quieran hacer el trabajo te enviarán un inbox con el presupuesto o pedido de detalles específicos.
   
 * **Para vender software, apps, cursos y cualquier tipo de producto relacionado a la programación:
   -Están prohibidas sin excepción éste tipo de publicaciones en el grupo. Únicamente puede ser publicado a través de nuestra [Página Oficial](https://facebook.com/coperarg)
