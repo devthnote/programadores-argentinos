@@ -38,6 +38,7 @@
 * Compartir material de pago obtenido y distribuido gratuita pero ilegalmente.
 * Software de terceros, sin licencia, hackeados, creackeados o métodos para obtener estos resultados
 * Ventas, subastas o pedidos de compra de productos variados, esto incluye paquetes de software y, en general, cualquier tipo de producto o servicio. (para esto utiliza la [página oficial](https://facebook.com/coperarg)
+* Ofertas de empleo de cualquier tipo. (para esto utiliza la [página oficial](https://facebook.com/coperarg). Únicamente se permite el pedido de trabajos "freelance", leer sus limitaciones.
 * Publicaciones fuera del ámbito de la programación, o ámbitos relacionados a la programación.
 * Publicaciones solicitando o compartiendo información protegida por derechos de autor.
 * Publicaciones de enlaces externos como blog, sitios web o foros, siempre y cuando estos sean solo links sin argumentación de porque se comparte el contenido o lleve a recursos ilegales.
