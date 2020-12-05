@@ -5,6 +5,12 @@
 * Se prohíbe cualquier discriminación producto del género, orientación sexual o nacionalidad de algún miembro de la comunidad, en cualquier herramienta o iniciativas. Se aplicará la expulsión, automáticamente, de o las personas que incumplan este punto.
 * En resumen se prohíbe cualquier acción negativa por sexo, edad, nivel de conocimiento, etnia, raza, nacionalidad, postura política o gustos personales.
 
+# Requisitos para ingresar a la comunidad
+
+* Si bien no hay requisitos, les pedimos que utilicen sus cuentas personales para unirse. Rechazamos todas las solicitudes de: 
+    - Perfiles nuevos de facebook (meses o dias desde su creación).
+    - Cuentas que nos parezcan Falsas
+    - Páginas de facebook.
 
 # Normativa para publicar en la Comunidad de Programadores Argentinos
 
