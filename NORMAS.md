@@ -13,7 +13,7 @@
 * Se puede pedir ayuda, orientación de estudios y preparación para entrevistas de trabajo. Antes de pedir ayuda por favor lee los [TIPS para pedir soporte](https://github.com/devthnote/programadores-argentinos/blob/main/TIPS_y_sanciones.md#tips-para-pedir-ayuda-o-soporte)
 
 #### Limitaciones de tiempo y antigüedad:
-* Pedidos de presupuestos a freelancers que tengan toda la información necesaria (o casi toda). **Un pedido cada 24 hs.** (no repetir los mismos pedidos más de una vez por semana)
+* Pedidos de presupuestos a freelancers que tengan toda la [información necesaria](https://github.com/devthnote/programadores-argentinos/blob/main/NORMAS.md#para-pedir-presupuestos-a-un-freelancer) (o casi toda). **Un pedido cada 24 hs.** (no repetir los mismos pedidos más de una vez por semana)
 
 **Usuarios Nuevos**
 * YouTubers, propietarios de sitios web que **NO TENGAN LA INSIGNIA DE USUARIO NUEVO**  pueden publicar sus tutoriales y guías (1 enlace x día, procurando no repetir la misma publicación).
@@ -41,11 +41,12 @@
 * Tomas de pantalla que sean ilegibles o imágenes que sean difíciles de interpretar tampoco son bienvenidas.
 * Publicaciones con SPAM o post repetidos (existiendo el anterior) y publicaciones alusivas a otros grupos, o páginas si éstas no aportan a la comunidad.
 * **Se considera SPAM publicaciones que pueden cumplir o no las normas, pero son publicadas más de 1 vez en 24 horas, de forma insistente.**
-* Cualquier pedido de ayuda que no exprese la duda y/o solo muestre una imagen de tareas o similar será eliminado. **No hacemos tus tareas, pero si te esforzas te podemos ayudar.** Ver los tips para pedir ayuda.
+* Cualquier pedido de ayuda que no exprese la duda y/o solo muestre una imagen de tareas o similar será eliminado. **No hacemos tus tareas, pero si te esforzas te podemos ayudar.** Ver los [TIPS para pedir ayuda](https://github.com/devthnote/programadores-argentinos/blob/main/TIPS_y_sanciones.md#tips-para-pedir-ayuda-o-soporte)
 
 ### Publicaciones PERMITIDAS únicamente en la PÁGINA de facebook:
 * Ofertas laborales que completen la plantilla de empleo y esten relacionados con la programación.
 * Venta de .productos y servicios relacionados con la programación (software, apps, enlaces a tu tienda virtual, etc)
+[Normativa para la publicación de empleos y productos](https://github.com/devthnote/programadores-argentinos/blob/main/NORMAS.md#informaci%C3%B3n-necesaria-para-presupuestos-ventas-y-ofertas-de-empleo)
 
 # Información necesaria para PRESUPUESTOS, VENTAS Y OFERTAS DE EMPLEO
 
@@ -72,3 +73,6 @@
 * Si aún no está publicado en ningún sitio: Presentá la oferta, ofertas del tipo "Busco programador", "necesito programador para usa pago  en USD", "enviame tu cv a mimail@soyunchanta.com no describen nada y pueden poner en riesgo a los miembros de la comunidad. Sin excepciones estos anuncios son descartados antes de publicarse.
 * **DATOS OBLIGATORIOS:** Sin importar donde hayas publicado la oferta, debes especificar: **NOMBRE DE LA EMPRESA CONTRATISTA** (O PERSONA EN ESE ROL), **UBICACION** (cuando lo requiera, puede ser aproximada), **DETALLES DEL TRABAJO** (muy importante, una vez más "busco programador no nos dice nada"). Ofertas que no cumplan estos requisitos serán eliminadas automáticamente.
 * Solo administradores, moderadores o usuarios asignados pueden compartir los links en el grupo.
+
+
+[MÁS INFO, EXTENSIÓN DE LAS NORMAS, SANCIONES Y TIPS PARA NUEVAS PUBLICAIONES EN ÉSTE ENLACE(https://github.com/devthnote/programadores-argentinos/blob/main/TIPS_y_sanciones.md)
