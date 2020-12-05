@@ -2,7 +2,7 @@
 
 
 * [Grupo de la Comunidad de Programadores Establecidos en la República Argentina (Coperar)](https://facebook.com/groups/coperar) - Comunidad
-* [Página Oficial en Facebook (coperarg)](https://facebook.com/coperar) - Empleos y productos
+* [Página Oficial en Facebook (coperarg)](https://facebook.com/coperarg) - Empleos y productos
 * [WIKI de la comunidad](https://github.com/devthnote/programadores-argentinos/wiki)
 
 * [Código de convivencia y normas](https://github.com/devthnote/programadores-argentinos/blob/main/NORMAS.md)
