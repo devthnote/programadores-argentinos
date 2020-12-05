@@ -48,36 +48,30 @@
 * Venta de .productos y servicios relacionados con la programación (software, apps, enlaces a tu tienda virtual, etc)
 
 # Información necesaria para PRESUPUESTOS, VENTAS Y OFERTAS DE EMPLEO
+
 ### Para pedir presupuestos a un freelancer:
 
 * Explicá lo más detallado posible el trabajo a realizar (no solicitar que envien un privado para explicarlo).    
 * Si es relevante, especifica una ubicación aproximada. (si es necesaria una visita presencial, este dato es relevante).    
-* Escificá las formas de pago que tenés para pagar el trabajo.    
-* Menisteriosos, pedidos de inbox, o cualquier pedido que consideremos pueda ser un riesgo para los miembros, automáticamente será eliminado.    
-* Sl pedido está completo y cumple con esta normativa, los freelancers que quieran hacer el trabajo te enviarán un inbox con el presupuesto o pedido de detalles específicos.
+* Especificá las formas de pago que tenés para pagar el trabajo.    
+* Mensajes misteriosos, pedidos de inbox, o cualquier pedido que consideremos pueda ser un riesgo para los miembros, automáticamente será eliminado.    
+* Sl el pedido está completo y cumple con esta normativa, los freelancers que quieran hacer el trabajo te enviarán un inbox con el presupuesto o pedido de detalles específicos.
     
   
-* **Para vender software, apps, cursos y cualquier tipo de producto relacionado a la programación:
+### Para vender software, apps, cursos y cualquier tipo de producto relacionado a la programación:
 
-  -Están prohibidas sin excepción éste tipo de publicaciones en el grupo. Únicamente puede ser publicado a través de nuestra [Página Oficial](https://facebook.com/coperarg)
+* Están prohibidas sin excepción éste tipo de publicaciones en el grupo. Únicamente puede ser publicado a través de nuestra [Página Oficial](https://facebook.com/coperarg)
+* Si ya publicaste el producto en el marketplace de facebook (o cualquier marketplace de internet), tu perfil, página de tu marca, etc. No es necesario que escribas ninguna publicación. Copiá el link, acortalo (https://bitly.com y otros) y pegalo en el estado. **Esta es la opción que recomendamos.**
+* Si aún no está publicado en ningún sitio: Presentá el producto, anuncios del tipo "Vendo webs" no describen nada. En lo posible poné el precio. Si el producto hay que retirarlo en persona, especificá la ubicación, así cómo los medios de pago.
+* Solo administradores, moderadores o usuarios asignados pueden compartir los links en el grupo.
   
-  -Si ya publicaste el producto en el marketplace de facebook (o cualquier marketplace de internet), tu perfil, página de tu marca, etc. No es necesario que escribas ninguna publicación. Copiá el link, acortalo (https://bitly.com y otros) y pegalo en el estado. **Esta es la opción que recomendamos.**
-  
-  -Si aún no está publicado en ningún sitio: Presentá el producto, anuncios del tipo "Vendo webs" no describen nada. En lo posible poné el precio. Si el producto hay que retirarlo en persona, especificá la ubicación, así cómo los medios de pago.
-  
-  -Solo administradores, moderadores o usuarios asignados pueden compartir los links en el grupo.
-  
-* **Para ofrecer empleo, republicar ofertas de trabajo, etc:
+### Para ofrecer empleo, republicar ofertas de trabajo, etc:
 
-  -Están prohibidas sin excepción éste tipo de publicaciones en el grupo. Únicamente puede ser publicado a través de nuestra [Página Oficial](https://facebook.com/coperarg)
-  
-  -Si ya publicaste la oferta en el facebook Jobs (o cualquier sitio de empleos en internet), tu perfil, página de tu empresa, etc. No es necesario que escribas ninguna publicación. Copiá el link, acortalo (https://bitly.com y otros) y pegalo en el estado. **Esta es la opción que recomendamos.**
-  
-  -Si aún no está publicado en ningún sitio: Presentá la oferta, ofertas del tipo "Busco programador", "necesito programador para usa pago  en USD", "enviame tu cv a mimail@soyunchanta.com no describen nada y pueden poner en riesgo a los miembros de la comunidad. Sin excepciones estos anuncios son descartados antes de publicarse.
-  
-  -**DATOS OBLIGATORIOS:** Sin importar donde hayas publicado la oferta, debes especificar: **NOMBRE DE LA EMPRESA CONTRATISTA** (O PERSONA EN ESE ROL), **UBICACION** (cuando lo requiera, puede ser aproximada), **DETALLES DEL TRABAJO** (muy importante, una vez más "busco programador no nos dice nada"). Ofertas que no cumplan estos requisitos serán eliminadas automáticamente.
-  
-  -Solo administradores, moderadores o usuarios asignados pueden compartir los links en el grupo.
+* Están prohibidas sin excepción éste tipo de publicaciones en el grupo. Únicamente puede ser publicado a través de nuestra [Página Oficial](https://facebook.com/coperarg)
+* Si ya publicaste la oferta en el facebook Jobs (o cualquier sitio de empleos en internet), tu perfil, página de tu empresa, etc. No es necesario que escribas ninguna publicación. Copiá el link, acortalo (https://bitly.com y otros) y pegalo en el estado. **Esta es la opción que recomendamos.**
+* Si aún no está publicado en ningún sitio: Presentá la oferta, ofertas del tipo "Busco programador", "necesito programador para usa pago  en USD", "enviame tu cv a mimail@soyunchanta.com no describen nada y pueden poner en riesgo a los miembros de la comunidad. Sin excepciones estos anuncios son descartados antes de publicarse.
+* **DATOS OBLIGATORIOS:** Sin importar donde hayas publicado la oferta, debes especificar: **NOMBRE DE LA EMPRESA CONTRATISTA** (O PERSONA EN ESE ROL), **UBICACION** (cuando lo requiera, puede ser aproximada), **DETALLES DEL TRABAJO** (muy importante, una vez más "busco programador no nos dice nada"). Ofertas que no cumplan estos requisitos serán eliminadas automáticamente.
+* Solo administradores, moderadores o usuarios asignados pueden compartir los links en el grupo.
   
  # TIPS PARA PEDIR AYUDA O SOPORTE
  
