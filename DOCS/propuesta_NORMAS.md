@@ -72,30 +72,3 @@
 * Si aún no está publicado en ningún sitio: Presentá la oferta, ofertas del tipo "Busco programador", "necesito programador para usa pago  en USD", "enviame tu cv a mimail@soyunchanta.com no describen nada y pueden poner en riesgo a los miembros de la comunidad. Sin excepciones estos anuncios son descartados antes de publicarse.
 * **DATOS OBLIGATORIOS:** Sin importar donde hayas publicado la oferta, debes especificar: **NOMBRE DE LA EMPRESA CONTRATISTA** (O PERSONA EN ESE ROL), **UBICACION** (cuando lo requiera, puede ser aproximada), **DETALLES DEL TRABAJO** (muy importante, una vez más "busco programador no nos dice nada"). Ofertas que no cumplan estos requisitos serán eliminadas automáticamente.
 * Solo administradores, moderadores o usuarios asignados pueden compartir los links en el grupo.
-  
- # TIPS PARA PEDIR AYUDA O SOPORTE
- 
- En la comunidad estamos encantados de ayudarte, pero para poder hacerlo es necesario que sigas unas pautas, esto es para que podamos ayudarte mejor a resolver las dudas de la mejor manera.
- 
- * Antes de publicar revisá la WIKI de la comunidad, aunque actualmente hay pocos artículos, agregamos a medida que se resuelven dudas. No esta demás chequear!
- * Utiliza la lupa (busqueda), posiblemente alguien haya tenido el mismo problema antes y ya esté solucionado! Una búsqueda rápida en google también puede ayudar.
- * Cuando publiques, se explicativo! Contanos el problema,  cuando empezo a suceder (si es relevante), las apps, lenguajes, o servicios relacionados al problema.
- * Si es un problema con el código (y el 95% de las veces lo será para los pedidos de ayuda), MOSTRANOS EL CODIGO. 
- 
-  -NO PUBLIQUES IMÁGENES DEL CÓDIGO - Estas publicaciones se borran!
-  
-  - Si no es mucho código (2 o 3 lineas) copialas en el estado, si es muy largo utilizá alguno de los servicios gratuitos de paste:
-  
-    -[PasteBin](https://pastebin.com)
-    
-    -[ControlC](https://controlc.com/)
-    
-    -[HasteBin](https://hastebin.com/)
-    
-    -[Just Paste Me](https://justpaste.me/)
-    
-    -[PrivateBin](https://privatebin.net/)
-    
-    -[CodePen](https://codepen.io) Recomendado cuando necesitas mostrar el código de varios archivos y su vista previa (html/css/js por ej)
-    
-  -Si es para una web y está online, especificá el enlace. 
