@@ -48,16 +48,13 @@
 * Venta de .productos y servicios relacionados con la programación (software, apps, enlaces a tu tienda virtual, etc)
 
 # Información necesaria para PRESUPUESTOS, VENTAS Y OFERTAS DE EMPLEO
-* **Para pedir presupuestos a un freelancer:**
-    -Explicá lo más detallado posible el trabajo a realizar (no solicitar que envien un privado para explicarlo).
-    
-    -Si es relevante, especifica una ubicación aproximada. (si es necesaria una visita presencial, este dato es relevante).
-    
-    -Especificá las formas de pago que tenés para pagar el trabajo.
-    
-    -Mensajes misteriosos, pedidos de inbox, o cualquier pedido que consideremos pueda ser un riesgo para los miembros, automáticamente será eliminado.
-    
-    -Si el pedido está completo y cumple con esta normativa, los freelancers que quieran hacer el trabajo te enviarán un inbox con el presupuesto o pedido de detalles específicos.
+### Para pedir presupuestos a un freelancer:
+
+* Explicá lo más detallado posible el trabajo a realizar (no solicitar que envien un privado para explicarlo).    
+* Si es relevante, especifica una ubicación aproximada. (si es necesaria una visita presencial, este dato es relevante).    
+* Escificá las formas de pago que tenés para pagar el trabajo.    
+* Menisteriosos, pedidos de inbox, o cualquier pedido que consideremos pueda ser un riesgo para los miembros, automáticamente será eliminado.    
+* Sl pedido está completo y cumple con esta normativa, los freelancers que quieran hacer el trabajo te enviarán un inbox con el presupuesto o pedido de detalles específicos.
     
   
 * **Para vender software, apps, cursos y cualquier tipo de producto relacionado a la programación:
