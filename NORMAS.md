@@ -75,4 +75,4 @@
 * Solo administradores, moderadores o usuarios asignados pueden compartir los links en el grupo.
 
 
-[MÁS INFO, EXTENSIÓN DE LAS NORMAS, SANCIONES Y TIPS PARA NUEVAS PUBLICAIONES EN ÉSTE ENLACE(https://github.com/devthnote/programadores-argentinos/blob/main/TIPS_y_sanciones.md)
+#### [MÁS INFO, EXTENSIÓN DE LAS NORMAS, SANCIONES Y TIPS PARA NUEVAS PUBLICAIONES EN ÉSTE ENLACE](https://github.com/devthnote/programadores-argentinos/blob/main/TIPS_y_sanciones.md)
