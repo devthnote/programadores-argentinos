@@ -10,7 +10,7 @@
 
 ### 1. Publicaciones PERMITIDAS en el GRUPO de facebook:
 * Se pueden publicar noticias, artículos sobre temas de informática, programación, tecnología, apps y aquellas que inviten al debate y opinión.
-* Se puede pedir ayuda, orientación de estudios y preparación para entrevistas de trabajo. Antes de pedir ayuda por favor lee los [TIPS para pedir soporte](#)
+* Se puede pedir ayuda, orientación de estudios y preparación para entrevistas de trabajo. Antes de pedir ayuda por favor lee los [TIPS para pedir soporte](https://github.com/devthnote/programadores-argentinos/blob/main/TIPS_y_sanciones.md#tips-para-pedir-ayuda-o-soporte)
 
 #### Limitaciones de tiempo y antigüedad:
 * Pedidos de presupuestos a freelancers que tengan toda la información necesaria (o casi toda). **Un pedido cada 24 hs.** (no repetir los mismos pedidos más de una vez por semana)
